@@ -105,7 +105,7 @@ body {
 
 .navbar #logo img {
   display: block;
-  width: 40px;
+  width: 60px;
 }
 
 .navbar .btn {
@@ -141,7 +141,7 @@ body {
 }
 
 .profile-image {
-  width: 150px;
+  width: 350px;
   border-radius: 50%;
   animation: bounce 1s infinite alternate;
 }
